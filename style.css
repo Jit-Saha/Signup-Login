@@ -1,0 +1,149 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(105, 7, 105, 0.418);
+}
+
+#sU{
+    font-family: 'Kotta One', serif;
+    font-family: 'Metal Mania', cursive;
+    font-family: 'Mukta Vaani', sans-serif;
+    font-size: 50px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    color: rgb(233, 138, 22);
+}
+
+.container{
+    max-width: 50%;
+    max-height: 60%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#containerL{
+    margin-bottom:30%
+}
+
+form{
+    font-size: larger;
+    padding: 2%;
+    text-align: center;
+    background-color: rgb(248, 246, 246) ;
+    border: double 3px rgb(10, 83, 32);
+    border-radius: 20px;
+}
+
+#button,#eBut{
+    text-decoration: none;
+    color: rgba(218, 53, 53, 0.685);
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(253, 253, 253);
+}
+
+#eBut:hover{
+    color: rgb(146, 9, 9);
+    background-color: rgba(224, 247, 20, 0.952);
+}
+#button:hover{
+    color: rgb(146, 9, 9);
+    background-color: rgba(115, 223, 8, 0.829);
+}
+
+.mail,.pword,.name,.age{
+    width:80% ;
+}
+
+.mail,.pword,button,.name,.age,#eBut{
+    margin: 2%;
+    padding: 1%;
+    border: groove 2px pink;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#dividor{
+    margin: auto;
+    display: block;
+    width: 60%;
+}
+
+#but{
+    text-align: center;
+    align-self: center;
+    width: 50%;
+    height: 50%;
+    /* font-family: 'Kotta One', serif;
+    font-family: 'Metal Mania', cursive;
+    font-family: 'Mukta Vaani', sans-serif;
+    font-family: 'Viaoda Libre', cursive; */
+    font-weight: bold;
+}
+
+#but:hover{
+    background-color: brown;
+    color: aliceblue;
+}
+
+#headerW{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kotta One', serif;
+    font-family: 'Metal Mania', cursive;
+    font-family: 'Mukta Vaani', sans-serif;
+    font-family: 'Viaoda Libre', cursive;
+    font-weight: bold;
+    color: rgb(37,107,13);
+}
+
+.containW{
+    text-align: center;
+}
+.headW{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+.HeadButton,#titleWlt{
+    width: 20%;
+}
+#titleW{
+    padding: 2%;
+    text-align: center;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color:  rgb(37, 10, 189);
+}
+
+#titleW h2{
+    color: brown;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:  rgb(206, 200, 243);
+}
+
+footer{
+    padding: 2%;
+    font-size: 20px;
+    color: beige;
+}
+
+.containW{
+    height: 550px;
+}
+
+#contact{
+    padding-right: 0%;
+    padding: 1%;
+}
+
+#Acc1{
+    height: 30px;
+    width: 30px;
+}
