@@ -7,9 +7,7 @@ PHP :  Used for log-in , log-out and sign-up purposes.Form verification and secu
 
 SQL :  Used for the backend database creation and maintainence.
 
-JS  :  Used for the responsive design and functionality of the website.
-
-Inline JS is used mainly to make the flow much for interactive with the user.
+JS  :  Used for the responsive design and functionality of the website.Inline JS is used mainly to make the flow much for interactive with the user.
 
 CSS :  Used for basic designing [Bootstrap-icons are used in login and logout pages respectively.]
 
