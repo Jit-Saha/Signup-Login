@@ -12,3 +12,5 @@ JS  :  Used for the responsive design and functionality of the website.Inline JS
 CSS :  Used for basic designing [Bootstrap-icons are used in login and logout pages respectively.]
 
 HTML:  Structure of the webpages are done using this.
+
+Link to the website: http://login-out-jit.epizy.com/index.php
